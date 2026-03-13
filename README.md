@@ -66,6 +66,10 @@ http://localhost:8000
 2. Click **Add Player**.
 3. The player will appear in the tournament list.
 
+## Application Preview
+
+![Tournament Manager Screenshot](screenshots/app.png)
+
 ---
 
 ## Future Improvements
